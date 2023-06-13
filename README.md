@@ -11,4 +11,11 @@
 ![image](https://github.com/hyejin192/PHP/assets/129017064/9bc206a4-db96-49d1-b52f-5bf312bf88e7)
 
       http://localhost/ 치면 위 화면이 나와야함
+      
+      
+## 실행하기
+![image](https://github.com/hyejin192/PHP/assets/129017064/2d54881c-7299-400e-be85-a10841890186)
+
+      http://localhost/ 는 htdocs까지의 경로를 뜻하고 그 뒤부턴 경로를 각각 적어야 함
+
 
