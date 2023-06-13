@@ -14,8 +14,14 @@
       
       
 ## 실행하기
+![image](https://github.com/hyejin192/PHP/assets/129017064/fd5d173a-0eba-4817-8aeb-1247d2a14f7e)
+      
+      <?php?>로 실행 ''안은 다 문자로 인식해 $year년입니다 그대로 출력
+
 ![image](https://github.com/hyejin192/PHP/assets/129017064/2d54881c-7299-400e-be85-a10841890186)
 
       http://localhost/ 는 htdocs까지의 경로를 뜻하고 그 뒤부턴 경로를 각각 적어야 함
+      
+ 
 
 
