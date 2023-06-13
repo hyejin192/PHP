@@ -6,3 +6,9 @@
 ![image](https://github.com/hyejin192/PHP/assets/129017064/a0aa42e2-cc16-4970-8488-67d291d65b4c)
 
       실행된 화면
+
+![image](https://github.com/hyejin192/PHP/assets/129017064/27a79a6d-bf67-4fe6-98f8-f39839f373cd)
+![image](https://github.com/hyejin192/PHP/assets/129017064/9bc206a4-db96-49d1-b52f-5bf312bf88e7)
+
+      http://localhost/ 치면 위 화면이 나와야함
+
