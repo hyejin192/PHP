@@ -26,6 +26,7 @@
 ![image](https://github.com/hyejin192/PHP/assets/129017064/032cce76-32d8-41af-95d2-6aeb059592ea)
 
       form method의 기본값인 get이 적용이되면 첫번째 사진처럼 적은 값이 다 보이기 때문에 form method="post"로 설정해야 보이지 않는다
+      post로 적용할시 print.php에 $GET 부분을 $POST로 적어야 한다
       
 ![image](https://github.com/hyejin192/PHP/assets/129017064/457337b3-d21e-42b3-b261-f0a35e988a8c)
 
