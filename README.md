@@ -34,7 +34,7 @@
 
       $REQUEST : POST,GET 모두 받아진다
       
-![image](https://github.com/hyejin192/PHP/assets/129017064/2beb5c6f-c915-4875-8c0b-8bdf9b25faca)
+
 ![image](https://github.com/hyejin192/PHP/assets/129017064/d3a877dd-06f4-4908-9ace-029b67fd35b9)
 
       
