@@ -41,6 +41,12 @@
       <?php print 까지를 <?= 으로 줄일 수 있다 
       태그 안에는 echo 보단 print를 사용
       
+      
+![image](https://github.com/hyejin192/PHP/assets/129017064/0d819a69-067b-45db-b74b-f331f5c19153)
+
+      for문을 사용해 생년월일 입력
+
+      
 
      
 
