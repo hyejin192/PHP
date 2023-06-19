@@ -35,6 +35,8 @@
       $REQUEST : POST,GET 모두 받아진다
       
 ![image](https://github.com/hyejin192/PHP/assets/129017064/2beb5c6f-c915-4875-8c0b-8bdf9b25faca)
+![image](https://github.com/hyejin192/PHP/assets/129017064/d3a877dd-06f4-4908-9ace-029b67fd35b9)
+
       
       <?php print 까지를 <?= 으로 줄일 수 있다 
       태그 안에는 echo 보단 print를 사용
