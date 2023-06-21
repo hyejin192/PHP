@@ -46,6 +46,11 @@
 
       for문을 사용해 생년월일 입력
 
+# phpMyAdmin
+![image](https://github.com/hyejin192/PHP/assets/129017064/c108e964-f43d-4900-9b79-66e1149ace00)
+
+      http://localhost/phpmyadmin/
+
       
 
      
