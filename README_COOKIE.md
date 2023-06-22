@@ -27,6 +27,11 @@
   header("Location:절대경로")
 ![image](https://github.com/hyejin192/PHP/assets/129017064/429221e2-d042-455d-b733-d9d9965ea5fb)
 
+# logout.php 생성
+![image](https://github.com/hyejin192/PHP/assets/129017064/e60e769c-e97f-45a2-82cb-885ba7d9c5f0)
+
+
+
 
 
 
