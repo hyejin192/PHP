@@ -51,6 +51,10 @@
 
       http://localhost/phpmyadmin/
 
+## 데이타베이스 만들기
+![image](https://github.com/hyejin192/PHP/assets/129017064/f91858cb-14e2-4564-8605-d83ea1fbaf04)
+
+      데이타베이스 -> green 생성
       
 
      
