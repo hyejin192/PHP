@@ -22,5 +22,11 @@
 
   php안에 html을 넣으려면 php가 시작하고 끝나는지점을 다시 설정해야 한다
 
+# header함수 (php에서 어떤 페이지로 보내는 방법 중 하나)
+
+  header("Location:절대경로")
+![image](https://github.com/hyejin192/PHP/assets/129017064/429221e2-d042-455d-b733-d9d9965ea5fb)
+
+
 
 
